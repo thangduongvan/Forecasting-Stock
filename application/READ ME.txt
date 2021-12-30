@@ -1,0 +1,2 @@
+This project is an application using Long Short Term Memory for forecasting stock data.
+To run this project, running file application/dash-project/routes.py

@@ -1,0 +1,2 @@
+This project is using for studying of multivariate forecasting by Long Short Term Memory.
+To run this project, running file experiment.ipynb
